@@ -2,7 +2,7 @@
 
 UpskillEnglish is a web application designed to enhance English proficiency through two focused sections: **Practice Zone** and **Assessment Zone**. Whether you're looking to hone your skills or evaluate your progress, UpskillEnglish offers a comprehensive solution for advanced English learners.
 
-Frontend URL: 
+Frontend URL: https://github.com/FI-Nabil/upskillenglish-frontend
 </br>
 Swagger URL: http://localhost:8080/swagger-ui/index.html#/
 
